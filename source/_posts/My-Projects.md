@@ -39,6 +39,11 @@ https://github.com/celeron533/KeepOn
 
 {% asset_img KeepOn.ico %}
 
+## RevolutionOS-sub
+纪录片电影 Revolution OS （《操作系统革命》）中文字幕修订计划
+
+https://github.com/celeron533/RevolutionOS-sub
+
 
 ## GIFConverter
 A batch script for generating gif files from video clip by FFmpeg.exe on Windows
