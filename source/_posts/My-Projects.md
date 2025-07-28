@@ -83,11 +83,3 @@ A free, fully featured model rocket simulator. I've completed the initial versio
 https://github.com/openrocket/openrocket
 
 {% asset_img OpenRocket.png %}
-
-## A modified 2048 game X Elysium Above
-
-Downgraded the goal from 2048 to 512. Added tile images from {% link Ainro <http://weibo.com/ainro/> %}.
-
-http://celeron533.github.io/2048/
-
-{% asset_img 512-Game.png %}
